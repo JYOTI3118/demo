@@ -89,6 +89,9 @@ button:focus {
   border-radius: 10px;
   overflow: hidden;
   height: 650px;
+  background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;	
 }
 
 
